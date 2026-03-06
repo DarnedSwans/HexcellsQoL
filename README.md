@@ -31,4 +31,5 @@ Indicates cells that can be deduced from visible clues.
 # Installation
 
 1. [Install BepInEx stable version](https://docs.bepinex.dev/articles/user_guide/installation/index.html) into the Hexcells Infinite game directory (`C:\Program Files (x86)\Steam\steamapps\common\Hexcells Infinite`). Make sure to launch the game once.
-2. Copy `DarnedSwans.HexcellsQoL.dll` into the BepInEx plugins directory. (`C:\Program Files (x86)\Steam\steamapps\common\Hexcells Infinite\BepInEx\plugins`).
+2. Download the latest HexcellsQoL from https://github.com/DarnedSwans/HexcellsQoL/releases.
+3. Copy `DarnedSwans.HexcellsQoL.dll` into the BepInEx plugins directory. (`C:\Program Files (x86)\Steam\steamapps\common\Hexcells Infinite\BepInEx\plugins`).
